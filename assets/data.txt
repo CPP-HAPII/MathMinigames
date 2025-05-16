@@ -1,0 +1,50 @@
+What is the place value of the specified digits
+- 2,461,478: What is the place value of the 1?
+
+Write the number in word form (Ranging places)
+Which of the following is the rounded form of this number?
+
+If Susan dives 8 feet underwater, how would you write the number showing her depth?
+- Tests positive ad negative numbers
+
+Basic Sums and Differences
+- can be decimals like with money
+- Can range between 2 - 6 places
+- can be 3+ numbers
+
+Gerald started a new collection with 325 bottle caps. He collects 158 more caps in September and 217 more in October. How many bottle caps did he have at the end of October?
+157 + 882 + 376 = ? -> 1,514 => 1425 => 1415 => 1574
+Franklin has a set of building blocks with 176 pieces. He received 2 more sets as gifts. One has 95 pieces; the other has 160 pieces. How many building blocks does Franklin have all together?
+Archery Team A hit the target 367 times. Team B hit the target 412 times. Did the two teams hit the target 800 times? If not, by how much did they miss?
+Murphy has an article with 72,885 words and an article with 59,993 words. How mnay more words does the longer article have?
+Patrick has filled 1,485 of 3,000 baseball cards. How mnay cards are left to be filled?
+Elizabeth and Jeanee are covering a fireplace mantel with 4500 fancy tacks. Elisabeth has added 934 tacks to the mantel. Jeanne has added 1,093 tacks. How many tacks do they have to add to complete the mantel?
+
+Expressions with Addition and Subtraction
+Given a variable with some number, perform arithmitic with other numbers
+
+Division and Multiplication
+- Simple 1 or 2 place
+
+Art wants to display 35 of his origami figures by hanging an equal number on each of 5 mobiles. How many figures will Art hang from each mobile?
+Jack has 40 trading cards that he would like to give to his 5 friends. If he shares them equally, how many cards will he give to each?
+Lome's cat had 6 kittens that he gave equally to his 6 friends. How many kittens did each friend get?
+Raffle tickets sell for $1 each. How many tickets can Thorn buy for $8?
+Emily has $12 and wants to buy some books. The books are $6 each. How many books can Emily buy?
+
+When a product is multiplied by 8, the product is 64,000. What is that number?
+Seven china-doll painters each painted 2 eyes on each of 22 doll faces a day. How many eyes in all did they paint in one day?
+There are 36,200 pencils on each of 4 shelves at the office supply manufacturer's warehouse. How many pencils are there altogether?
+Andy bought 7 videos at the mall. Each video cost $14.95. How much money did he spend?
+To raise money for the band trip, 13 students showed up to help at the Benefit the Band Car Wash. They charged $12 for a car wash and by the end of the day had washed a total of 68 cars. How much money did they earn?
+Laura addresses 127 envelopes every week. Each envelope contains 4 pieces of paper. How many envelopes does Laura address in one year? There are 52 weeks in a year.
+Dancers are placed in groups of 4 for a square dance. There are 56 dancers. How many groups of 4 can be made?
+The refreshment table includes cups of fruit punch. There are 84 cups of fruit punch in one bowl. Suppose each dancer can get punch from one bowl.
+Tom made 61 sandwhiches for the party. A tray holds 8 sandwhiches. How many trays of sandwhiches did he have?
+Five medium-sized strawberries have about 1,000 seeds. About how many seeds does each strawberry contain?
+Mary Beth has 215 stickers. She wants to fill 2 albums with the same number of stickers in each. How many stickers will be in each album?
+A piece of fabric is 52 inches long. Sally cuts it into 4 equal pieces to make costumes for puppets. How long is each piece?
+A puppet show has three acts. Each act is 20 minutes long. There are 10-minute intermissions between the acts. How long will the show last?
+Pupeteers rehearse 5 days a week, for a total of 4 hours and 10 minutes. Each rehearsal is the same length. How long is each rehearsal?
+Tickets to a puppet show cost $5 fo adults and $3 for children under 16. How much would it cost a family of 2 adults and 3 children to attend the puppet show?
+Andy buys table-tennis balls to make eyes for puppets he is making. They cost $0.50 a ball. He buys 4 boxes, each with 3 balls. How much does he spend in all?
