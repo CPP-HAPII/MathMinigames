@@ -26,6 +26,7 @@ flutter build web
 The happi account with Firebase access is: thehapiilab@gmail.com
 Please use this account to manage data storage
 
+If the app isn't deployed at the same link (https://fir-79444.web.app/), you may need to re-deploy to access it on the web.
 Project Settings > General > Scroll Down
 Reveals the project setup for the API key and other code snippets. Please fetch the key here first to run the data storage. It can be the same key and code snippets as the firebase ones
 
